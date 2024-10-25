@@ -62,7 +62,7 @@ group :development, :test do
 
   gem 'rubocop', '~> 1.66', require: false
 
-  gem 'factory_bot_rails', '~> 6.4', '>= 6.4.3'
+  gem 'factory_bot_rails', '~> 6.4'
 end
 
 group :test do
