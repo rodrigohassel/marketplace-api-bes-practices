@@ -60,7 +60,7 @@ group :development, :test do
 
   gem 'rswag-specs', '~> 2.14'
 
-  gem 'rubocop', '~> 1.66', require: false
+  gem 'rubocop', '~> 1.68', require: false
 
   gem 'factory_bot_rails', '~> 6.4', '>= 6.4.3'
 end
