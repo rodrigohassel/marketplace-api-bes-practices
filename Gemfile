@@ -53,7 +53,7 @@ group :development, :test do
 
   # Brings the RSpec testing framework to Ruby on Rails as a drop-in alternative to its default testing framework,
   # Minitest.
-  gem 'rspec-rails', '~> 7.0'
+  gem 'rspec-rails', '~> 7.1'
 
   # The faker and ffaker APIs are mostly the same, although the API on ffaker keeps diverging with its users additions.:
   gem 'ffaker', '~> 2.23'
