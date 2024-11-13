@@ -36,7 +36,7 @@ gem 'rack-cors'
 # Open up your API to the phenomenal OpenAPI ecosystem by exposing OpenAPI files, that describe your service, as JSON
 # endpoints
 gem 'rswag-api', '~> 2.14'
-gem 'rswag-ui', '~> 2.14'
+gem 'rswag-ui', '~> 2.16'
 
 gem 'net-pop', github: 'ruby/net-pop'
 
