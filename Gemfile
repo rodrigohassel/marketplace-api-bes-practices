@@ -58,7 +58,7 @@ group :development, :test do
   # The faker and ffaker APIs are mostly the same, although the API on ffaker keeps diverging with its users additions.:
   gem 'ffaker', '~> 2.23'
 
-  gem 'rswag-specs', '~> 2.14'
+  gem 'rswag-specs', '~> 2.16'
 
   gem 'rubocop', '~> 1.66', require: false
 
